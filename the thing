@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="res3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>response3</title>
+</head>
+
+<body>
+
+    <div id="sailio">
+        <nav>
+                <ul>
+                    <li><a href="#">Linkki</a></li>
+                    <li><a href="#">Linkki</a></li>
+                    <li><a href="#">Linkki</a></li>
+                    <li><a href="#">Linkki</a></li>
+                    <li><a href="#">Linkki</a></li>
+                </ul>
+            </nav>
+            
+            <header>
+                <div id="otsikko">
+                    <h1>Lorem Ipsum</h1>
+                    <h2>Täytetekstien aatelia</h2>
+                </div>
+                <div id="kuvaus">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est. Sed mollis nisl odio, vitae pellentesque diam fermentum id.  Fusce vitae dolor viverra, rutrum elit at, egestas turpis. Morbi malesuada tortor purus, vitae eleifend mauris sodales ac. Nullam et semper tellus, a convallis orci.</p>
+                </div>
+            </header>
+        <div id="triple">
+            <main>
+                <article id="one">
+                    <h2>KACHINGGGGGG</h2>
+                
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est. Sed mollis nisl odio, vitae pellentesque diam fermentum id. Fusce vitae dolor viverra, rutrum elit at, egestas turpis. Morbi malesuada tortor purus, vitae eleifend mauris sodales ac. Nullam et semper tellus, a convallis orci. Phasellus justo sapien, vestibulum at dignissim sed, vulputate nec nunc. Praesent mauris sem, aliquet vehicula consequat in, pharetra non risus. Sed posuere elit nulla, ac viverra odio ultrices cursus. Sed tincidunt urna sem. Aenean porttitor scelerisque erat, rhoncus vestibulum dui pretium ut.</p>
+                    
+                    <p>Aenean volutpat elit vel quam ultricies consequat. Morbi quis enim non enim ornare rhoncus vitae vel arcu. Ut quis nibh dolor. Aliquam rutrum vestibulum nisi id facilisis. Maecenas vel risus tempus ipsum iaculis porttitor. Donec ac risus faucibus, aliquet mi quis, bibendum diam. Integer a neque ac neque gravida elementum a ac purus. Donec placerat quis lacus vitae faucibus. Nam dapibus ligula in tortor tempus, nec iaculis lacus convallis. Phasellus eu elementum tellus. Nam leo nibh, gravida a nunc sit amet, tincidunt ultrices ipsum. Proin sagittis pharetra dolor, id volutpat lorem viverra sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+                </article>
+                
+                <article id="two">
+                    <h2>KACHINGGGGGG</h2>
+                
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est. Sed mollis nisl odio, vitae pellentesque diam fermentum id. Fusce vitae dolor viverra, rutrum elit at, egestas turpis. Morbi malesuada tortor purus, vitae eleifend mauris sodales ac. Nullam et semper tellus, a convallis orci. Phasellus justo sapien, vestibulum at dignissim sed, vulputate nec nunc. Praesent mauris sem, aliquet vehicula consequat in, pharetra non risus. Sed posuere elit nulla, ac viverra odio ultrices cursus. Sed tincidunt urna sem. Aenean porttitor scelerisque erat, rhoncus vestibulum dui pretium ut.</p>
+                    
+                    <p>Aenean volutpat elit vel quam ultricies consequat. Morbi quis enim non enim ornare rhoncus vitae vel arcu. Ut quis nibh dolor. Aliquam rutrum vestibulum nisi id facilisis. Maecenas vel risus tempus ipsum iaculis porttitor. Donec ac risus faucibus, aliquet mi quis, bibendum diam. Integer a neque ac neque gravida elementum a ac purus. Donec placerat quis lacus vitae faucibus. Nam dapibus ligula in tortor tempus, nec iaculis lacus convallis. Phasellus eu elementum tellus. Nam leo nibh, gravida a nunc sit amet, tincidunt ultrices ipsum. Proin sagittis pharetra dolor, id volutpat lorem viverra sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;</p>
+                </article>
+            </main>
+            
+            <aside> 
+                <div id="news">
+                <h2>news</h2>
+                <div id="netext">
+                    <section>
+                        <h3>WOMP WOMP</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est.</p>
+                    </section>
+                    <section>
+                        <h3>WOMP WOMP</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est.</p>
+                    </section>
+                    <section>
+                        <h3>WOMP WOMP</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies tristique tellus eget ullamcorper. Nullam egestas nunc vel posuere placerat. Morbi enim nibh, aliquam at vulputate ut, scelerisque in est.</p>
+                    </section>
+                </div>
+            </aside>
+        </div>
+    </div>
+        
+    </div>
+
+
+
+
+
+
+</body>
+</html>
+
+
+CSS side:
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: rgb(190, 190, 190);}
+
+#news h2{
+    background-color: #545454;
+    padding-left: 5px;
+    color: white;
+}
+#netext {
+    background-color: rgb(190, 190, 190);
+    padding-left: 5px;
+}
+
+
+@media screen and (min-width: 800px ) {
+
+    nav ul li {
+        display: inline-block;
+        margin-left: 10px;
+    }
+    
+    nav ul li a {
+        color: hsl(0, 2%, 83%);
+        background-color: #545454;
+        text-decoration: none;
+        border: 2px solid hsl(0, 0%, 40%);
+        padding: 5px 10px;
+        display: block;
+        
+    }
+    
+    nav ul li a:hover {
+        color: #000000;
+        background-color: #b1b1b1;
+    }
+    nav ul {
+        text-align: right;
+    }
+   
+    header{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #otsikko {
+        flex: 1;
+        padding-left: 20%;
+        padding-right: 80px;
+        max-width: 50%;
+    }
+    #kuvaus{
+        width: 700px;
+        
+    }
+
+ #triple {
+        display: flex;
+        justify-content: space-between;
+    
+    }
+    
+    #news {
+        min-width: 35%;
+        float: right ;
+        padding-left: 5%;
+
+    }
+    #one,
+    #two {
+        width: 40%;
+        margin-right: 5%; 
+    }
+    
+    #one h2,
+    #two h2 {
+        width: 100%;
+    }
+}
